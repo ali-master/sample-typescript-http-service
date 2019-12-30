@@ -1,0 +1,4 @@
+{
+	"dimmer.enabled": false,
+	"typescript.tsdk": "node_modules/typescript/lib"
+}
